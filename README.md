@@ -1,4 +1,4 @@
-# Project Name: Abnormal_TS_CMC2020
+# Project Name: Abnormal_TS_CMC2019
 
 ### 1. Project description: Abnormal detection based on time series clustering approach
 #### Problem:  Machine Learning and Statistical Model to detect Consumers being cheated in Da Nang Viet Nam.
@@ -15,4 +15,4 @@
 
 
 *This is my first Data Science Projects as role ML/Big Data Engineer*
-*CMC CIST - Spring 2020 - ML/Big Data Engineer Internship*
+*CMC CIST - Winter 2019 - ML/Big Data Engineer Internship*
